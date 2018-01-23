@@ -1,0 +1,26 @@
+ZHIHAO ZHANG 1472413 JIAHAO LI 1461912
+
+Our final project is to implement the othello/reversi into python format.In this project,
+we use object-oriented programming the construct the GUI. We also construct the AI
+by using the min-max algorithm. We improve its time efficiency by using alpha-beta pruning.
+Last, we record the game result and store the information into the text file.
+
+How to use it:
+Type the program directory and run the program.
+There are three options in the main menu
+
+1.man vs man
+2.man vs com
+3.gmae history
+
+1.man vs man:
+for two human players, the white one go first and black go After
+the green dots indicate the valid position you can place chess
+2.man vs com
+for singer player, the while one(human) go first and black go After
+the green dots indicate the valid position you can place the chess
+3 game history
+show the game result
+
+After the game,you can click "cross" to exit the game and"reset" to reset the game
+and return to the main menu
